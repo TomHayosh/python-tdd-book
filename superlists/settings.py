@@ -25,6 +25,7 @@ SECRET_KEY = '0inx59+_-i9-@he0cpz!61zeo_nhjhk(j34ipy8=rbtp=_80&$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# ALLOWED_HOSTS = ['superlists-env.5wmsntwfgr.us-east-2.elasticbeanstalk.com']
 ALLOWED_HOSTS = []
 
 
